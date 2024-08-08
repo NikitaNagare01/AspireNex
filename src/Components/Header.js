@@ -4,7 +4,7 @@ import logo from '../logo.png';
 
 const Header = () => {
   return (
-    <div id='header' style={{backgroundImage:`url(${photo})`}}>
+    <div id='header' style={{}}>
       <div className='con'>
         {/* <nav>
             <img  src={logo} className='logo'/>
