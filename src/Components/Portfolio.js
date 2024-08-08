@@ -15,7 +15,7 @@ const Portfolio = props => {
                 <img src={work1} alt="work 1" />
 
                 <div className="layer">
-                    <h3>Textutil</h3>
+                    <h3>Text</h3>
                     <p>This page help user to perform different operation such as convert the entered text to uppercase, lowercase, copy. User can get to know how many words are there present in the entered text.</p>
                     <a href="https://nikitanagare01.github.io/TEXTUtils-React/"><i class="fa-solid fa-link"></i></a>
                 </div>
